@@ -23,7 +23,7 @@ setup(
         "scipy",
         "setuptools",
         "timm",
-        "torch",
+        "torch==2.2.1",
         "torchvision",
         "yacs",
     ],
